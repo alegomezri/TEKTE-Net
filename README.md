@@ -1,4 +1,3 @@
-```markdown
 # TEKTE-Net: Takens-Based Kernel Transfer Entropy Connectivity Network
 
 This repository contains the source code and experimental notebooks developed as part of the research work presented in the paper **“TEKTE-Net: A Takens-Based Kernel Transfer Entropy Connectivity Network for EEG-Based Motor Imagery Classification”**.
@@ -103,5 +102,3 @@ For questions or collaborations, please contact:
 **Yessica Alejandra Gómez Rivera**
 Universidad Tecnológica de Pereira
 ✉️ [your.email@utp.edu.co](mailto:your.email@utp.edu.co)
-
-```
