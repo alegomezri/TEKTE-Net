@@ -1,16 +1,81 @@
-# Ignorar entornos virtuales
+# ====================================
+# Python Environments and Dependencies
+# ====================================
+
+# Virtual environments
 .venv/
 venv/
 ENV/
 env/
 
-# Python cache
+# Dependency folders
 __pycache__/
 *.py[cod]
 
-# Archivos de entorno
+# Keep __init__.py (important for module structure)
+!__init__.py
+
+
+# ====================================
+# Jupyter and Temporary Files
+# ====================================
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# Temporary or log files
+*.log
+*.tmp
+*.bak
+
+
+# ====================================
+# Environment and Local Config Files
+# ====================================
+
+# Environment variables
 *.env
 
-# Archivos del sistema
+# VSCode and local editor settings
+.vscode/
+.idea/
+
+
+# ====================================
+# Large Data and Result Files
+# ====================================
+
+# Numpy, Pickle, and data files
+*.npy
+*.npz
+*.pkl
+*.dat
+*.mat
+*.h5
+
+# Model checkpoints
+*.ckpt
+*.pt
+*.pth
+*.hdf5
+
+# Result folders
+results/
+outputs/
+logs/
+checkpoints/
+
+# Temporary experiment data
+runs/
+experiments/
+
+
+# ====================================
+# System Files
+# ====================================
+
+# macOS
 .DS_Store
+
+# Windows
 Thumbs.db
