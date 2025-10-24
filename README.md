@@ -51,7 +51,7 @@ TEKTENet/
 Clone the repository and install the dependencies:
 
 ```bash
-git clone https://github.com/<your-username>/TEKTENet.git
+git clone https://github.com/alegomezri/TEKTE-Net.git
 cd TEKTENet
 pip install -r requirements.txt
 ````
