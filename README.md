@@ -82,6 +82,7 @@ If you use this code in your research, please cite:
 @article{gomez2025tektnet,
   title={TEKTE-Net: A Takens-Based Kernel Transfer Entropy Connectivity Network for EEG-Based Motor Imagery Classification},
   author={Gómez-Rivera, Yessica Alejandra and others},
+  doi={doi.org/10.3390/s25227067}
   journal={Sensors},
   year={2025}
 }
@@ -100,5 +101,5 @@ Feel free to use and modify it for academic or research purposes.
 
 For questions or collaborations, please contact:
 **Yessica Alejandra Gómez Rivera**
-Universidad Tecnológica de Pereira
-✉️ [your.email@utp.edu.co](mailto:your.email@utp.edu.co)
+Universidad Nacional de Colombia sede Manizales 
+✉️ [your.email@unal.edu.co](mailto:yeagomezri@unal.edu.co)
