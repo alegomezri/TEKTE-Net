@@ -4,7 +4,7 @@ This repository contains the source code and experimental notebooks developed as
 
 The project explores a novel deep learning framework for **EEG functional connectivity analysis**, combining **Takens embedding**, **kernelized Transfer Entropy**, and **convolutional neural architectures** (EEGNet and LeNet branches) to capture **directed, nonlinear, and frequency-specific dependencies** across brain regions during motor imagery tasks.
 
-![Takens Architecture](img\Metodology.png)
+![Takens Architecture](img/Metodology.png)
 
 ---
 
