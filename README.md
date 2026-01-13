@@ -30,7 +30,7 @@ TEKTENet/
 │   ├── te-sintetic-cv-5-folds.ipynb   # Experiments using the Semi-Synthetic Causal EEG Benchmark dataset
 │   ├── grafica-folds.ipynb            # Plots of robustness with respect to noise
 │   ├── model-tunner.ipynb             # Includes the custom layers, the full model definition, and the hyperparameter search
-│   ├── ventanas-te.ipynb              # 
+│   ├── ventanas-te.ipynb              # Interpretability analysis on both training and test data for each subject
 │   ├── te-random-conectivities.ipynb  # Visualization of the connectivity patterns for each trained model
 │   ├── filtros-de-la-depthwise.ipynb  # Code to extract the filters from the Depthwise layer of each model
 │   └── filtros.ipynb                  # Plots of the filters extracted for each fold.
