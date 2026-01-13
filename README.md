@@ -102,4 +102,4 @@ Feel free to use and modify it for academic or research purposes.
 For questions or collaborations, please contact:
 **Yessica Alejandra Gómez Rivera**
 Universidad Nacional de Colombia sede Manizales 
-✉️ [your.email@unal.edu.co](mailto:your.email@unal.edu.co)
+✉️ [your.email@unal.edu.co](mailto:yeagomezri@unal.edu.co)
