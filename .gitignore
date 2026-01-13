@@ -46,7 +46,7 @@ __pycache__/
 # ====================================
 
 # Numpy, Pickle, and data files
-*.npy
+#*.npy
 *.npz
 *.pkl
 *.dat
