@@ -27,19 +27,18 @@ The model was evaluated on public BCI datasets such as **BCI Competition IV-2a**
 TEKTENet/
 │
 ├── notebooks/
-│   ├── TEKTE_Net_Main.ipynb      # Core architecture and training pipeline
-│   ├── Connectivity_Analysis.ipynb # TE matrix generation and visualization
-│   └── Evaluation_Results.ipynb   # Metrics, t-SNE latent projections, etc.
+│   ├── te-sintetic-cv-5-folds.ipynb   # Experiments using the Semi-Synthetic Causal EEG Benchmark dataset
+│   ├── grafica-folds.ipynb            # Plots of robustness with respect to noise
+│   ├── model-tunner.ipynb             # Includes the custom layers, the full model definition, and the hyperparameter search
+│   ├── ventanas-te.ipynb              # 
+│   ├── te-random-conectivities.ipynb  # Visualization of the connectivity patterns for each trained model
+│   ├── filtros-de-la-depthwise.ipynb  # Code to extract the filters from the Depthwise layer of each model
+│   └── filtros.ipynb                  # Plots of the filters extracted for each fold.
 │
 ├── results/
 │   ├── fold_{i}.pkl               # Saved models per cross-validation fold
 │   ├── indices_kus.dat            # Dataset split indices
 │   └── reconstruction_values.dat  # Stored values for LaTeX reconstruction
-│
-├── utils/
-│   ├── preprocessing.py           # EEG filtering, segmentation, and Takens embedding
-│   ├── metrics.py                 # Custom accuracy, F1-score, and KL divergence
-│   └── visualization.py           # Connectivity and latent space plots
 │
 ├── requirements.txt               # Dependencies
 └── README.md                      # Project description (this file)
