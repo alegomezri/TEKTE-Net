@@ -3,6 +3,7 @@
 This repository contains the source code and experimental notebooks developed as part of the research work presented in the paper **“TEKTE-Net: A Takens-Based Kernel Transfer Entropy Connectivity Network for EEG-Based Motor Imagery Classification”**.
 
 The project explores a novel deep learning framework for **EEG functional connectivity analysis**, combining **Takens embedding**, **kernelized Transfer Entropy**, and **convolutional neural architectures** (EEGNet and LeNet branches) to capture **directed, nonlinear, and frequency-specific dependencies** across brain regions during motor imagery tasks.
+![Takens Architecture](img\Metodology.png)
 
 ---
 
